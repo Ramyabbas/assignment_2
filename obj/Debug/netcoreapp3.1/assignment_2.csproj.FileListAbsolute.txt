@@ -1,0 +1,24 @@
+/Users/diyar/Desktop/Ramy/Inlämningar/assignment_2/assignment_2/bin/Debug/netcoreapp3.1/assignment_2.deps.json
+/Users/diyar/Desktop/Ramy/Inlämningar/assignment_2/assignment_2/bin/Debug/netcoreapp3.1/assignment_2.runtimeconfig.json
+/Users/diyar/Desktop/Ramy/Inlämningar/assignment_2/assignment_2/bin/Debug/netcoreapp3.1/assignment_2.runtimeconfig.dev.json
+/Users/diyar/Desktop/Ramy/Inlämningar/assignment_2/assignment_2/bin/Debug/netcoreapp3.1/assignment_2.dll
+/Users/diyar/Desktop/Ramy/Inlämningar/assignment_2/assignment_2/bin/Debug/netcoreapp3.1/assignment_2.pdb
+/Users/diyar/Desktop/Ramy/Inlämningar/assignment_2/assignment_2/obj/Debug/netcoreapp3.1/assignment_2.csprojAssemblyReference.cache
+/Users/diyar/Desktop/Ramy/Inlämningar/assignment_2/assignment_2/obj/Debug/netcoreapp3.1/assignment_2.AssemblyInfoInputs.cache
+/Users/diyar/Desktop/Ramy/Inlämningar/assignment_2/assignment_2/obj/Debug/netcoreapp3.1/assignment_2.AssemblyInfo.cs
+/Users/diyar/Desktop/Ramy/Inlämningar/assignment_2/assignment_2/obj/Debug/netcoreapp3.1/assignment_2.csproj.CoreCompileInputs.cache
+/Users/diyar/Desktop/Ramy/Inlämningar/assignment_2/assignment_2/obj/Debug/netcoreapp3.1/assignment_2.dll
+/Users/diyar/Desktop/Ramy/Inlämningar/assignment_2/assignment_2/obj/Debug/netcoreapp3.1/assignment_2.pdb
+/Users/diyar/Desktop/Ramy/Inlämningar/assignment_2/assignment_2/obj/Debug/netcoreapp3.1/assignment_2.genruntimeconfig.cache
+/Users/diyar/Desktop/Ramy/Programmering med c#/Inlämningar/assignment_2/assignment_2/bin/Debug/netcoreapp3.1/assignment_2.deps.json
+/Users/diyar/Desktop/Ramy/Programmering med c#/Inlämningar/assignment_2/assignment_2/bin/Debug/netcoreapp3.1/assignment_2.runtimeconfig.json
+/Users/diyar/Desktop/Ramy/Programmering med c#/Inlämningar/assignment_2/assignment_2/bin/Debug/netcoreapp3.1/assignment_2.runtimeconfig.dev.json
+/Users/diyar/Desktop/Ramy/Programmering med c#/Inlämningar/assignment_2/assignment_2/bin/Debug/netcoreapp3.1/assignment_2.dll
+/Users/diyar/Desktop/Ramy/Programmering med c#/Inlämningar/assignment_2/assignment_2/bin/Debug/netcoreapp3.1/assignment_2.pdb
+/Users/diyar/Desktop/Ramy/Programmering med c#/Inlämningar/assignment_2/assignment_2/obj/Debug/netcoreapp3.1/assignment_2.csprojAssemblyReference.cache
+/Users/diyar/Desktop/Ramy/Programmering med c#/Inlämningar/assignment_2/assignment_2/obj/Debug/netcoreapp3.1/assignment_2.AssemblyInfoInputs.cache
+/Users/diyar/Desktop/Ramy/Programmering med c#/Inlämningar/assignment_2/assignment_2/obj/Debug/netcoreapp3.1/assignment_2.AssemblyInfo.cs
+/Users/diyar/Desktop/Ramy/Programmering med c#/Inlämningar/assignment_2/assignment_2/obj/Debug/netcoreapp3.1/assignment_2.csproj.CoreCompileInputs.cache
+/Users/diyar/Desktop/Ramy/Programmering med c#/Inlämningar/assignment_2/assignment_2/obj/Debug/netcoreapp3.1/assignment_2.dll
+/Users/diyar/Desktop/Ramy/Programmering med c#/Inlämningar/assignment_2/assignment_2/obj/Debug/netcoreapp3.1/assignment_2.pdb
+/Users/diyar/Desktop/Ramy/Programmering med c#/Inlämningar/assignment_2/assignment_2/obj/Debug/netcoreapp3.1/assignment_2.genruntimeconfig.cache
