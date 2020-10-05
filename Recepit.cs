@@ -8,7 +8,7 @@ namespace assignment_2
         public string Name { get; private set; }
         public string Phone { get; private set; }
         public DateTime dateTime { get; private set; }
-        public int Total { get; set; }
+        
         public RecepitRow row { get; set; }
 
         public Recepit()

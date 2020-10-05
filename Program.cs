@@ -28,7 +28,6 @@ namespace assignment_2
                 sw.WriteLine(product3.getProductLine());
 
             }
-
         }
 
         public static List<Product> readProducts()
@@ -48,29 +47,48 @@ namespace assignment_2
             return products;
         }
 
-        public static void run()
+        public static int searchProducts(int productid, List<Product> products)
         {
+            int position = -1;
+
+            for (int i=0; i< products.Count; i++)
+            {
+                if (productid == products[i].ID)
+                {
+                    position = i;
+                }
+            }
+            return position;
+        }
+
+        public static void run(List<Product> products)
+        {
+            var recepitRows = new List<RecepitRow>();
             while (true)
             {
                 try
                 {
+
                     Console.WriteLine("kommandon:");
-                    Console.WriteLine("<Produktid>  <Antal>");
+                    Console.Write("<Produktid>");
+                    Console.Write(" < Antal >");
                     Console.WriteLine("PAY");
                     Console.Write("Komando:");
-                    var produktid = (Console.ReadLine());
-                    var antal = (Console.ReadLine());
-                    if (produktid == "PAY" && antal =="PAY")
+                    int produktid = Convert.ToInt32(Console.ReadLine());
+                    int antal = Convert.ToInt32(Console.ReadLine());
+                    var product = products.Find(p => p.ID == produktid);
+                    var receiptRow = new RecepitRow(product.Name, antal, product.Price);
+                    recepitRows.Add(receiptRow);
+                    foreach(var recepitrow in recepitRows) 
                     {
-                        break;
+                        recepitrow.printRow();
                     }
                 }
                 catch(Exception ex)
                 {
-                    Console.WriteLine($"Något gick fel försök igen");
+                    Console.WriteLine(ex);
                 }
             }
-           
         }
 
 
@@ -85,7 +103,7 @@ namespace assignment_2
                 var input = (Console.ReadLine());
                 if (input == "1")
                 {
-                    run();
+                    run(products);
                 }
                 else if(input == "0")
                 {
